@@ -3,3 +3,5 @@ while True:
     Detect ()
   else:
     Dont()
+
+# kaluterh omada south eastern europe
