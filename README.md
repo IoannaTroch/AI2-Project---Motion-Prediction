@@ -4,4 +4,4 @@ while True:
   else:
     Dont()
 
-# kaluterh omada south eastern europe
+kaluterh omada south eastern europe
