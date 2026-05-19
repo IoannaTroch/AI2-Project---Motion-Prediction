@@ -19,4 +19,5 @@ class Program:
 
 
 if __name__ == "__main__":
-    AI4Animation(Program("Hello World"), mode=AI4Animation.Mode.STANDALONE)
+    AI4Animation(Program("Hello World"), mode=AI4Animation.Mode.STANDALONE) 
+    # AI4Animation(Program("Hello World"), mode=AI4Animation.Mode.HEADLESS) 
